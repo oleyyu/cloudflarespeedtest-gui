@@ -2,8 +2,9 @@
 # CFST 一键优选
 
 > 基于 [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) 的 macOS 傻瓜式 GUI 封装，双击即可完成 Cloudflare IP 测速并自动更新 hosts。
-
+> > 目前仅支持macOS + MacBook M1以上的版本
 ---
+
 
 ## 功能
 
